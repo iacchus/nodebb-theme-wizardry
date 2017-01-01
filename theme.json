@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-wizardry",
+    "name": "Wizardry",
+    "description": "A variation of the default theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/iacchus/nodebb-theme-wizardry",
+    "screenshot": "screenshot.png"
+}

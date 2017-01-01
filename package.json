@@ -1,0 +1,78 @@
+{
+  "name": "nodebb-theme-wizardry",
+  "version": "4.1.93",
+  "nbbpm": {
+    "compatibility": "^0.8.2 || ^0.9.0 || ^1.0.0"
+  },
+  "description": "Wizardry theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iacchus/nodebb-theme-wizardry.git"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "gitHead": "b4535f21812ca1d13c9adee0eb60f44cc20fb778",
+  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
+  "_id": "nodebb-theme-persona@4.1.93",
+  "scripts": {},
+  "_shasum": "99857d2a90e2e6f1606ed87fca3e9a333c4e6557",
+  "_from": "nodebb-theme-persona@4.1.93",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.8.1",
+  "_npmUser": {
+    "name": "baris",
+    "email": "barisusakli@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    },
+    {
+      "name": "baris",
+      "email": "barisusakli@gmail.com"
+    },
+    {
+      "name": "julianlam",
+      "email": "julian@designcreateplay.com"
+    }
+  ],
+  "dist": {
+    "shasum": "99857d2a90e2e6f1606ed87fca3e9a333c4e6557",
+    "tarball": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.1.93.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nodebb-theme-persona-4.1.93.tgz_1482394917157_0.4545867913402617"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-4.1.93.tgz",
+  "readme": "ERROR: No README data found!"
+}
