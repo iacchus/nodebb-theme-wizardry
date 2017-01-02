@@ -53,7 +53,9 @@
 			<h4>[[login:alternative_logins]]</h4>
 			<ul class="alt-logins">
 				<!-- BEGIN authentication -->
-				<li class="{authentication.name}"><a rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}"><i class="fa {authentication.icon} fa-3x"></i></a></li>
+				<li class="{authentication.name}">
+					<a class="btn btn-block btn-social btn-sm btn-{authentication.name} {authentication.name}" rel="nofollow" target="_top" href="{config.relative_path}{authentication.url}"><span class="fa fa-{authentication.name}"></span> Entrar com <span style="text-transform: capitalize;">{authentication.name}</span> </a>
+				</li>
 				<!-- END authentication -->
 			</ul>
 		</div>
